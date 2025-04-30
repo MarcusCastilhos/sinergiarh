@@ -1,59 +1,49 @@
-# SinergiarhTeste
+# 🚀 Projeto Sinergia RH - Releitura do Site
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.4.
+![Versão Desktop](https://github.com/MarcusCastilhos/sinergiarh/blob/main/src/assets/img/sinergiarh-desktop.png)
+![Versão Mobile](https://github.com/MarcusCastilhos/sinergiarh/blob/main/src/assets/img/sinergiarh-mobile.png)
 
-## Development server
+## 📌 Sobre o projeto
 
-To start a local development server, run:
+Este projeto foi desenvolvido como parte de um **teste técnico proposto pela Sinergia RH**, com o objetivo de realizar uma **releitura do site institucional** da empresa. O desafio foi entregue em **2 dias**, utilizando tecnologias modernas do front-end.
 
-```bash
-ng serve
-```
+---
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## 🛠️ Tecnologias utilizadas
 
-## Code scaffolding
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+- Responsividade com CSS puro
 
-```bash
-ng generate component component-name
-```
+A proposta incluiu a criação de um layout responsivo, moderno e fiel à identidade da empresa, considerando boas práticas de desenvolvimento e usabilidade.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+---
 
-```bash
-ng generate --help
-```
+## 🌐 Link para visualização
 
-## Building
+Você pode visualizar o projeto em funcionamento pelo GitHub Pages:
 
-To build the project run:
+👉 **[Acesse aqui o site](https://marcuscastilhos.github.io/sinergiarh/)**
 
-```bash
-ng build
-```
+---
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+## 💼 Contexto do teste
 
-## Running unit tests
+- 🧪 Proposto por: **Sinergia RH**
+- 🎯 Objetivo: Releitura do site institucional
+- 🧑‍💻 Tipo de vaga: **Desenvolvedor Fullstack Júnior**
+- ⏱️ Prazo de entrega: **2 dias**
+- 👨‍💻 Desenvolvido por: **Marcus Castilhos**
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+---
 
-```bash
-ng test
-```
+## 🙋 Sobre mim
 
-## Running end-to-end tests
+Sou Marcus Castilhos, desenvolvedor em transição de carreira com formação sólida em TI, experiência em projetos acadêmicos e formação militar, trazendo comigo responsabilidade, resiliência e foco em resultados.
 
-For end-to-end (e2e) testing, run:
+📞 **Contato via WhatsApp:** [Clique aqui para conversar](https://wa.me/5553984211159)
+📫 **Contato via E-mail:** [marcus.castilhos@outlook.com](mailto:marcus.castilhos@outlook.com)
 
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
